@@ -138,6 +138,6 @@ case "$choice" in
 3) list_jobs;;
 4) echo "Goodbye"
 break;;
-*) echo "Invalid Option. Choose 1 or 2.";;
+*) echo "Invalid Option.";;
 esac
 done
